@@ -35,6 +35,7 @@ me.say_hi()
 
 ### 🧰 Frameworks and libraries
 ![](https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/SciPy-8CAAE6.svg?logo=scipy&logoColor=white)
 ![](https://img.shields.io/badge/Selenium-43B02A.svg?logo=selenium&logoColor=white)
 ![](https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
