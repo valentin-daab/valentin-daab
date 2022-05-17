@@ -40,6 +40,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/spaCy-09A3D5.svg?logo=spacy&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white)
 
 ### 🗄️ Databases 
 ![](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
