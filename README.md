@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="gif.gif" height="175px"/></a>
+<p href="#" align="center"><img width="100%" height="auto" src="gif.gif" height="175px"/></p>
 
 ```python
 #!/usr/bin/python
