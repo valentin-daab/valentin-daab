@@ -58,3 +58,5 @@ me.say_hi()
 ![](https://img.shields.io/badge/Terminal-4D4D4D.svg?logo=WindowsTerminal&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white)
+![](https://img.shields.io/badge/Terraform-7B42BC.svg?logo=terraform&logoColor=white) 
+
