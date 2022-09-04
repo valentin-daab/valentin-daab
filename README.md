@@ -16,6 +16,7 @@ me.say_hi()
 ## Skills
 ### 💻 OS
 ![](https://img.shields.io/badge/Windows-0078D6.svg?logo=Windows&logoColor=black)
+![](https://img.shields.io/badge/Ubuntu-E95420.svg?logo=Ubuntu&logoColor=white)
 
 ### 📝 Editors
 ![](https://img.shields.io/badge/R%20Studio-75AADB?logo=rstudio&logoColor=white)
