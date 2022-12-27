@@ -24,6 +24,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=google-colab&logoColor=white)
 
+
 ### 👨‍💻 Programming languages
 ![](https://img.shields.io/badge/Python-31A8FF.svg?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/R-276DC3.svg?logo=R&logoColor=white)
@@ -58,4 +59,4 @@ me.say_hi()
 ![](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white)
 ![](https://img.shields.io/badge/Terraform-7B42BC.svg?logo=terraform&logoColor=white) 
-
+![](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)
