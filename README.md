@@ -52,6 +52,7 @@ me.say_hi()
 
 ### ☁️ Cloud Computing
 ![](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Amazon%20S3-569A31.svg?logo=amazon-s3&logoColor=white)
 ![](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?logo=apache-spark&logoColor=white)
 ![](https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?logo=apache-hadoop&logoColor=white)
 
