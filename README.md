@@ -34,6 +34,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
 
 ### 🧰 Frameworks and libraries
+![](https://img.shields.io/badge/scikit%20learn-F7931E.svg?logo=scikit-learn&logoColor=white)
 ![](https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/SciPy-8CAAE6.svg?logo=scipy&logoColor=white)
 ![](https://img.shields.io/badge/Selenium-43B02A.svg?logo=selenium&logoColor=white)
@@ -41,6 +42,8 @@ me.say_hi()
 ![](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/spaCy-09A3D5.svg?logo=spacy&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white)
+
+
 
 ### 🗄️ Databases 
 ![](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
